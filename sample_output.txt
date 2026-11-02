@@ -1,0 +1,19 @@
+====================================
+       SMART AUTOCOMPLETE SYSTEM    
+====================================
+
+1. Add Word
+2. Search Suggestions
+3. Exit
+Enter your choice: Enter a prefix (letters only): 
+Autocomplete suggestions for "pro":
+1. process
+2. program
+3. programmer
+4. programming
+5. project
+
+1. Add Word
+2. Search Suggestions
+3. Exit
+Enter your choice: Thank you for using Smart Autocomplete System!
